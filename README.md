@@ -4,8 +4,8 @@
                  ,'                '.
                ,'                    '
               /                       \_
-             ;     -.                   `\                                                contact: wildanr@pm.me
-             |       |     _         _    .                                               btc: bc1qysz5gkanvvwk2n4s36txfpelrl5lzewrmv8fv2
+             ;     -.                   `\                             wildanr@pm.me
+             |       |     _         _    .                            btc: bc1qysz5gkanvvwk2n4s36txfpelrl5lzewrmv8fv2
             ;       ,'  ,-' `.     /' `.  |
             |       '  /  o   |   t  o  \.'    .,-.
              |         |:    .'   |:    .|    /    \
